@@ -8,6 +8,7 @@
   "editor.renderWhitespace": "boundary",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "css.lint.unknownAtRules": "ignore",
 
   // JS/TS
   "javascript.preferences.quoteStyle": "single",
