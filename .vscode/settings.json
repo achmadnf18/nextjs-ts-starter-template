@@ -35,5 +35,11 @@
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
     }
-  }
+  },
+
+  // CSS
+  "files.associations": {
+    "*.css": "scss"
+  },
+  "scss.validate": false
 }
